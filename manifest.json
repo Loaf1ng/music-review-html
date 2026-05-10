@@ -1,0 +1,896 @@
+{
+  "total_questions": 55,
+  "sources": {
+    "2025-2026 2 课堂测试1.pptx": 25,
+    "2025-2026 2 测试 2.pptx": 30
+  },
+  "questions": [
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 1,
+      "slide_number": 2,
+      "answer": "4",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 83.933,
+        "option_text": "4. 自觉的个人审美意愿"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q01.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 2,
+      "slide_number": 3,
+      "answer": "4",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 77.089,
+        "option_text": "4. 尽管有标题引导，其意象依然是模糊的"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q02.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q02_media1.mp3",
+          "kind": "audio",
+          "name": "media1.wma",
+          "note": "WMA converted to MP3"
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 3,
+      "slide_number": 4,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 61.563,
+        "option_text": "2. 曲首冠音"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q03.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q03_media2.mp3",
+          "kind": "audio",
+          "name": "media2.mp3",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 4,
+      "slide_number": 5,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 61.563,
+        "option_text": "2. 圣·桑的《动物狂欢节》"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q04.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q04_media3.mp4",
+          "kind": "video",
+          "name": "media3.mp4",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 5,
+      "slide_number": 6,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 56.896,
+        "option_text": "2. 节奏是一样的，但节拍不一样"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q05.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 6,
+      "slide_number": 7,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 72.748,
+        "option_text": "3. 3拍子交替"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q06.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q06_media4.mp3",
+          "kind": "audio",
+          "name": "media4.mp3",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 7,
+      "slide_number": 8,
+      "answer": "1",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 37.192,
+        "option_text": "1. 附点型，打破了常规的平衡，具有很强的表现力"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q07.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q07_media5.mp3",
+          "kind": "audio",
+          "name": "media5.mp3",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 8,
+      "slide_number": 9,
+      "answer": "1",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 59.711,
+        "option_text": "1. 六月"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q08.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q08_media6.mp3",
+          "kind": "audio",
+          "name": "media6.mp3",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 9,
+      "slide_number": 10,
+      "answer": "4",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 77.088,
+        "option_text": "4. 捷克民族乐派伟大的作曲家德沃夏克的《第九交响曲》"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q09.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q09_media7.mp3",
+          "kind": "audio",
+          "name": "media7.mp3",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 10,
+      "slide_number": 11,
+      "answer": "1",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 47.267,
+        "option_text": "1. 旋律中有大幅度的跳进，情感充沛"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q10.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q10_media8.mp3",
+          "kind": "audio",
+          "name": "media8.mp3",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 11,
+      "slide_number": 12,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 66.23,
+        "option_text": "2. 音乐所带来的听觉体验与视觉体验产生的联觉效应，给人抽象而模糊的一致感"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q11.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q11_media9.mp4",
+          "kind": "video",
+          "name": "media9.mp4",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 12,
+      "slide_number": 13,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 57.207,
+        "option_text": "2. G  B  D"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q12.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 13,
+      "slide_number": 14,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 64.396,
+        "option_text": "2. 切分节奏型"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q13.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q13_media10.mp3",
+          "kind": "audio",
+          "name": "media10.mp3",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 14,
+      "slide_number": 15,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 69.346,
+        "option_text": "3. 音乐常常是抽象的、概括的、随意的，因此常常是多解的，每个人都可以有自己的解读方式。"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q14.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 15,
+      "slide_number": 16,
+      "answer": "1",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 56.896,
+        "option_text": "1. 三分损益律"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q15.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 16,
+      "slide_number": 17,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 72.896,
+        "option_text": "2. 朱载堉"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q16.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 17,
+      "slide_number": 18,
+      "answer": "1",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 55.044,
+        "option_text": "1. 12，12"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q17.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 18,
+      "slide_number": 19,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 66.748,
+        "option_text": "3. 全半全全半全全"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q18.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 19,
+      "slide_number": 20,
+      "answer": "4",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 76.6,
+        "option_text": "4. 商调式"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q19.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q19_media11.mp3",
+          "kind": "audio",
+          "name": "media11.mp3",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 20,
+      "slide_number": 21,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 76.052,
+        "option_text": "3. 复调"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q20.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q20_audio1.wav",
+          "kind": "audio",
+          "name": "audio1.wav",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 21,
+      "slide_number": 22,
+      "answer": "4",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 70.733,
+        "option_text": "4. 有“fa”和“xi”这两个音级，但作为偏音，而非正音"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q21.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 22,
+      "slide_number": 23,
+      "answer": "4",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 75.198,
+        "option_text": "4. 是指调式主音的音高位置"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q22.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 23,
+      "slide_number": 24,
+      "answer": "4",
+      "answer_mark": {
+        "left_pct": 3.0,
+        "top_pct": 74.0,
+        "option_text": "4. 三全音（增四、减五度）"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q23.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q23_media12.mid",
+          "kind": "link",
+          "name": "media12.mid",
+          "note": "MIDI download/open link"
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 24,
+      "slide_number": 25,
+      "answer": "1",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 55.044,
+        "option_text": "1. 它将原本的大调式改为了小调式"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q24.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q24_media13.mp4",
+          "kind": "video",
+          "name": "media13.mp4",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 课堂测试1.pptx",
+      "question_number": 25,
+      "slide_number": 26,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 56.896,
+        "option_text": "2. 极度不协和，带有原始的粗粝感"
+      },
+      "image_src": "assets/slides/2025-2026_2_课堂测试1/q25.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_课堂测试1/q25_media14.mp3",
+          "kind": "audio",
+          "name": "media14.mp3",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 1,
+      "slide_number": 2,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 61.563,
+        "option_text": "2. 乐句  乐段  乐部  乐章"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q01.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 2,
+      "slide_number": 3,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 87.03,
+        "option_text": "3. 多乐器、单声部的齐奏"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q02.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 3,
+      "slide_number": 4,
+      "answer": "1",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 61.563,
+        "option_text": "1. 对位"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q03.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_测试_2/q03_media1.mp4",
+          "kind": "video",
+          "name": "media1.mp4",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 4,
+      "slide_number": 5,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 65.349,
+        "option_text": "2. 减字谱"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q04.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 5,
+      "slide_number": 6,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 79.373,
+        "option_text": "3. 12"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q05.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 6,
+      "slide_number": 7,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 62.392,
+        "option_text": "3. 海顿、莫扎特、贝多芬"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q06.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 7,
+      "slide_number": 8,
+      "answer": "4",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 76.452,
+        "option_text": "4. 在巴洛克时期"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q07.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 8,
+      "slide_number": 9,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 67.148,
+        "option_text": "3. 不了解一部作品的曲式结构，就根本无法欣赏作品"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q08.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 9,
+      "slide_number": 10,
+      "answer": "4",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 77.088,
+        "option_text": "4. 一部作品中主题数量的多少决定着作品艺术价值的高低"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q09.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 10,
+      "slide_number": 11,
+      "answer": "1",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 47.889,
+        "option_text": "1. 贝多芬《D大调小提琴协奏曲》"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q10.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_测试_2/q10_media2.mp3",
+          "kind": "audio",
+          "name": "media2.wma",
+          "note": "WMA converted to MP3"
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 11,
+      "slide_number": 12,
+      "answer": "4",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 75.764,
+        "option_text": "4. 流行音乐"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q11.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 12,
+      "slide_number": 13,
+      "answer": "4",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 85.178,
+        "option_text": "4. 回旋曲式"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q12.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 13,
+      "slide_number": 14,
+      "answer": "1",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 63.444,
+        "option_text": "1. 善于运用音色与音区上的变化"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q13.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_测试_2/q13_media3.mp3",
+          "kind": "audio",
+          "name": "media3.mp3",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 14,
+      "slide_number": 15,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 69.948,
+        "option_text": "2. 弹拨为主的丝弦乐器 与 吹奏为主的吹管乐器"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q14.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 15,
+      "slide_number": 16,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 67.148,
+        "option_text": "3. 小提琴、中提琴、大提琴、低音提琴"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q15.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 16,
+      "slide_number": 17,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 77.089,
+        "option_text": "3. 谐音列的排列方式"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q16.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 17,
+      "slide_number": 18,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 61.563,
+        "option_text": "2. 手风琴"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q17.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_测试_2/q17_media4.mp3",
+          "kind": "audio",
+          "name": "media4.mp3",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 18,
+      "slide_number": 19,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 67.148,
+        "option_text": "3. 速度的改变有可能会改变甚至是颠覆乐曲的原本面貌"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q18.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 19,
+      "slide_number": 20,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 82.081,
+        "option_text": "3. 席勒"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q19.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_测试_2/q19_media5.mp4",
+          "kind": "video",
+          "name": "media5.mp4",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 20,
+      "slide_number": 21,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 84.513,
+        "top_pct": 71.792,
+        "option_text": "picture option 3"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q20.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 21,
+      "slide_number": 22,
+      "answer": "4",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 88.599,
+        "option_text": "4. 娱乐是生活所需，但要适可而止，更不应由此放弃对更高级审美的追求"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q21.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 22,
+      "slide_number": 23,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 91.414,
+        "option_text": "3. 此曲慷慨、激昂、饱含斗争意志，嵇康赴死前曾演奏此曲"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q22.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 23,
+      "slide_number": 24,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 67.148,
+        "option_text": "3. 浪漫主义"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q23.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 24,
+      "slide_number": 25,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 77.089,
+        "option_text": "3. 邦笛"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q24.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_测试_2/q24_media6.mp3",
+          "kind": "audio",
+          "name": "media6.mp3",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 25,
+      "slide_number": 26,
+      "answer": "3",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 77.089,
+        "option_text": "3. 莫扎特"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q25.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 26,
+      "slide_number": 27,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 64.348,
+        "option_text": "2. 副部主题"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q26.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_测试_2/q26_audio1.wav",
+          "kind": "audio",
+          "name": "audio1.wav",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 27,
+      "slide_number": 28,
+      "answer": "1",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 55.355,
+        "option_text": "1. 《流浪者之歌》"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q27.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_测试_2/q27_media7.mp3",
+          "kind": "audio",
+          "name": "media7.mp3",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 28,
+      "slide_number": 29,
+      "answer": "4",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 77.089,
+        "option_text": "4. 呈示部 展开部 再现部"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q28.png",
+      "media": []
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 29,
+      "slide_number": 30,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 57.207,
+        "option_text": "2. 二胡"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q29.png",
+      "media": [
+        {
+          "src": "assets/media/2025-2026_2_测试_2/q29_media8.mp3",
+          "kind": "audio",
+          "name": "media8.mp3",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source": "2025-2026 2 测试 2.pptx",
+      "question_number": 30,
+      "slide_number": 31,
+      "answer": "2",
+      "answer_mark": {
+        "left_pct": 2.603,
+        "top_pct": 57.207,
+        "option_text": "2.《啊，红色的血》"
+      },
+      "image_src": "assets/slides/2025-2026_2_测试_2/q30.png",
+      "media": []
+    }
+  ],
+  "warnings": [
+    "PowerPoint exported a blank slide; rebuilt from PPTX text: 2025-2026 2 课堂测试1.pptx question 23",
+    "MIDI file kept as link because browser playback is unreliable: ppt/media/media12.mid"
+  ]
+}
