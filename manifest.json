@@ -31,10 +31,10 @@
       "image_src": "assets/slides/2025-2026_2_课堂测试1/q02.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_课堂测试1/q02_media1.mp3",
+          "src": "assets/media/2025-2026_2_课堂测试1/q02_media1.m4a",
           "kind": "audio",
           "name": "media1.wma",
-          "note": "WMA converted to MP3"
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -51,10 +51,10 @@
       "image_src": "assets/slides/2025-2026_2_课堂测试1/q03.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_课堂测试1/q03_media2.mp3",
+          "src": "assets/media/2025-2026_2_课堂测试1/q03_media2.m4a",
           "kind": "audio",
           "name": "media2.mp3",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -71,10 +71,10 @@
       "image_src": "assets/slides/2025-2026_2_课堂测试1/q04.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_课堂测试1/q04_media3.mp4",
+          "src": "assets/media/2025-2026_2_课堂测试1/q04_media3_ios.mp4",
           "kind": "video",
           "name": "media3.mp4",
-          "note": ""
+          "note": "iOS-compatible H.264/AAC"
         }
       ]
     },
@@ -104,10 +104,10 @@
       "image_src": "assets/slides/2025-2026_2_课堂测试1/q06.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_课堂测试1/q06_media4.mp3",
+          "src": "assets/media/2025-2026_2_课堂测试1/q06_media4.m4a",
           "kind": "audio",
           "name": "media4.mp3",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -124,10 +124,10 @@
       "image_src": "assets/slides/2025-2026_2_课堂测试1/q07.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_课堂测试1/q07_media5.mp3",
+          "src": "assets/media/2025-2026_2_课堂测试1/q07_media5.m4a",
           "kind": "audio",
           "name": "media5.mp3",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -144,10 +144,10 @@
       "image_src": "assets/slides/2025-2026_2_课堂测试1/q08.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_课堂测试1/q08_media6.mp3",
+          "src": "assets/media/2025-2026_2_课堂测试1/q08_media6.m4a",
           "kind": "audio",
           "name": "media6.mp3",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -164,10 +164,10 @@
       "image_src": "assets/slides/2025-2026_2_课堂测试1/q09.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_课堂测试1/q09_media7.mp3",
+          "src": "assets/media/2025-2026_2_课堂测试1/q09_media7.m4a",
           "kind": "audio",
           "name": "media7.mp3",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -184,10 +184,10 @@
       "image_src": "assets/slides/2025-2026_2_课堂测试1/q10.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_课堂测试1/q10_media8.mp3",
+          "src": "assets/media/2025-2026_2_课堂测试1/q10_media8.m4a",
           "kind": "audio",
           "name": "media8.mp3",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -204,10 +204,10 @@
       "image_src": "assets/slides/2025-2026_2_课堂测试1/q11.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_课堂测试1/q11_media9.mp4",
+          "src": "assets/media/2025-2026_2_课堂测试1/q11_media9_ios.mp4",
           "kind": "video",
           "name": "media9.mp4",
-          "note": ""
+          "note": "iOS-compatible H.264/AAC"
         }
       ]
     },
@@ -237,10 +237,10 @@
       "image_src": "assets/slides/2025-2026_2_课堂测试1/q13.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_课堂测试1/q13_media10.mp3",
+          "src": "assets/media/2025-2026_2_课堂测试1/q13_media10.m4a",
           "kind": "audio",
           "name": "media10.mp3",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -322,10 +322,10 @@
       "image_src": "assets/slides/2025-2026_2_课堂测试1/q19.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_课堂测试1/q19_media11.mp3",
+          "src": "assets/media/2025-2026_2_课堂测试1/q19_media11.m4a",
           "kind": "audio",
           "name": "media11.mp3",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -342,10 +342,10 @@
       "image_src": "assets/slides/2025-2026_2_课堂测试1/q20.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_课堂测试1/q20_audio1.wav",
+          "src": "assets/media/2025-2026_2_课堂测试1/q20_audio1.m4a",
           "kind": "audio",
           "name": "audio1.wav",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -408,10 +408,10 @@
       "image_src": "assets/slides/2025-2026_2_课堂测试1/q24.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_课堂测试1/q24_media13.mp4",
+          "src": "assets/media/2025-2026_2_课堂测试1/q24_media13_ios.mp4",
           "kind": "video",
           "name": "media13.mp4",
-          "note": ""
+          "note": "iOS-compatible H.264/AAC"
         }
       ]
     },
@@ -428,10 +428,10 @@
       "image_src": "assets/slides/2025-2026_2_课堂测试1/q25.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_课堂测试1/q25_media14.mp3",
+          "src": "assets/media/2025-2026_2_课堂测试1/q25_media14.m4a",
           "kind": "audio",
           "name": "media14.mp3",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -474,10 +474,10 @@
       "image_src": "assets/slides/2025-2026_2_测试_2/q03.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_测试_2/q03_media1.mp4",
+          "src": "assets/media/2025-2026_2_测试_2/q03_media1_ios.mp4",
           "kind": "video",
           "name": "media1.mp4",
-          "note": ""
+          "note": "iOS-compatible H.264/AAC"
         }
       ]
     },
@@ -572,10 +572,10 @@
       "image_src": "assets/slides/2025-2026_2_测试_2/q10.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_测试_2/q10_media2.mp3",
+          "src": "assets/media/2025-2026_2_测试_2/q10_media2.m4a",
           "kind": "audio",
           "name": "media2.wma",
-          "note": "WMA converted to MP3"
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -618,10 +618,10 @@
       "image_src": "assets/slides/2025-2026_2_测试_2/q13.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_测试_2/q13_media3.mp3",
+          "src": "assets/media/2025-2026_2_测试_2/q13_media3.m4a",
           "kind": "audio",
           "name": "media3.mp3",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -677,10 +677,10 @@
       "image_src": "assets/slides/2025-2026_2_测试_2/q17.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_测试_2/q17_media4.mp3",
+          "src": "assets/media/2025-2026_2_测试_2/q17_media4.m4a",
           "kind": "audio",
           "name": "media4.mp3",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -710,10 +710,10 @@
       "image_src": "assets/slides/2025-2026_2_测试_2/q19.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_测试_2/q19_media5.mp4",
+          "src": "assets/media/2025-2026_2_测试_2/q19_media5_ios.mp4",
           "kind": "video",
           "name": "media5.mp4",
-          "note": ""
+          "note": "iOS-compatible H.264/AAC"
         }
       ]
     },
@@ -782,10 +782,10 @@
       "image_src": "assets/slides/2025-2026_2_测试_2/q24.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_测试_2/q24_media6.mp3",
+          "src": "assets/media/2025-2026_2_测试_2/q24_media6.m4a",
           "kind": "audio",
           "name": "media6.mp3",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -815,10 +815,10 @@
       "image_src": "assets/slides/2025-2026_2_测试_2/q26.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_测试_2/q26_audio1.wav",
+          "src": "assets/media/2025-2026_2_测试_2/q26_audio1.m4a",
           "kind": "audio",
           "name": "audio1.wav",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -835,10 +835,10 @@
       "image_src": "assets/slides/2025-2026_2_测试_2/q27.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_测试_2/q27_media7.mp3",
+          "src": "assets/media/2025-2026_2_测试_2/q27_media7.m4a",
           "kind": "audio",
           "name": "media7.mp3",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
@@ -868,10 +868,10 @@
       "image_src": "assets/slides/2025-2026_2_测试_2/q29.png",
       "media": [
         {
-          "src": "assets/media/2025-2026_2_测试_2/q29_media8.mp3",
+          "src": "assets/media/2025-2026_2_测试_2/q29_media8.m4a",
           "kind": "audio",
           "name": "media8.mp3",
-          "note": ""
+          "note": "iOS-compatible AAC"
         }
       ]
     },
